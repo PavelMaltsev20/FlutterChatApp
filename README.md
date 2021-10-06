@@ -23,9 +23,8 @@ The user can use the camera to take a photo which can be set as an account icon.
 #
 
  
-|Sign in, Sign Up, Camera|
-|--|--|
-| <div align="center"><img src="https://github.com/PavelMaltsev20/FlutterChatApp/blob/master/documentation/gifs/camera.gif?raw=true" width="170" height="320"></div>  |  
+Sign in, Sign Up, Camera
+<div align="center"><img src="https://github.com/PavelMaltsev20/FlutterChatApp/blob/master/documentation/gifs/camera.gif?raw=true" width="170" height="320"></div> 
 
 #
 |Sending message| Receiving a message in another account|
