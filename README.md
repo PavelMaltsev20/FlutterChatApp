@@ -16,7 +16,7 @@ A chat application in which users can communicate with each other.
 
 Developed in Dart language using Flutter in Android Studio.
 
-Also used Firestore Database to track new messages in real time 
+Also used Firestore Database to store and track new messages in real time.
 
 The user can use the camera to take a photo which can be set as an account icon.
 
